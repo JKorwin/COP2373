@@ -2,7 +2,7 @@
 # After each buyer buys tickets the total of tickets left will be displayed
 # Total number of buyers will be displayed at the end
 # initial statement telling the user what the program is
-#defining function
+# defining function
 def main():
     print('Welcome. This is an application that allows you to buy cinema tickets.'         
           '\nThere are a total of 20 tickets and you can buy a maximum of 4.')
@@ -33,10 +33,12 @@ def main():
         number_of_buyers += 1
 
         # displaying tickets left
-        print('There are',number_of_tickets, 'tickets left.')
+        print('There are', number_of_tickets, 'tickets left.')
 
-    #displaying total number of buyers
-    print('All tickets sold. Total number of buyers:',number_of_buyers)
+    # displaying total number of buyers
+    print('All tickets sold. Total number of buyers:', number_of_buyers)
 
-#calling function
+# calling function
 main()
+
+
