@@ -1,0 +1,24 @@
+Justin Korwin 5/18/2024
+This program will pre-sell a limited number of cinema tickets and display the number of buyers at the end.
+
+variables:
+number_of_tickets
+number_of_buyers
+tickets_bought
+
+functions:
+a function that subtracts the number of tickets bought from the total number of tickets
+an accumulator function that adds 1 to the total number of buyers after each iteration of a while loop
+
+Logical Steps:
+1. Establish that there are 20 total tickets and 0 total buyers at the beginning
+2. Create a loop that prompts the user to enter the number of tickets they would like to buy 
+   as long as there are greater than 0 tickets left
+3. Establish if statements for if the user is trying to buy a prohibited amount of tickets
+4. Inside the loop will be a function to subtract the amount of tickets the user bought
+   and an accumulator to add to the number of buyers
+5. The number of tickets left will be displayed
+6. After all the tickets have been bought I will display total number of buyers
+
+repository link:
+https://github.com/JKorwin/COP2373
