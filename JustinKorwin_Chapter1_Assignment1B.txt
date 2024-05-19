@@ -1,0 +1,28 @@
+Justin Korwin 5/18/2024
+
+This program will simulate a magic 8 ball fortune telling toy
+
+variables:
+phrases  (this is a list of all the phrases)
+user_wants
+phrase
+user_question
+
+functions:
+a function that prompts the user to ask a question and then chooses a random
+  phrase from phrases and prints it as long as the user wants to continue
+
+logical steps:
+1. Import random to use randomized choice of corresponding responses
+2. Create a list with all the phrases
+3. Open a file in write mode and write the list created in step 2
+4. Close the file
+5. Open the file in read mode
+6. Create a loop that prompts the user to ask a yes or no question then randomly chooses a phrase from the file and prints it
+7. Ask the user if they would like to continue. If no then close file
+7. Celebrate recreating the magic 8 ball fortune telling toy in python
+
+
+
+link to repository:
+https://github.com/JKorwin/COP2373
