@@ -57,7 +57,7 @@ def main():
     print('Spam score: ', spam_score)
     print('Spam likelihood: ', spam_likelihood)
 
-    # printing spam words and phrases using comprehension because it was in the chapter
+    # printing spam words and phrases using comprehension because it was mentioned in chapter 3 quiz
     print('Spam words and phrases found: ' if words_found else "So spam words or phrases found.")
     [print(word) for word in words_found]
 
