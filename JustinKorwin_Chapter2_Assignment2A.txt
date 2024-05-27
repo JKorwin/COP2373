@@ -1,0 +1,32 @@
+Justin Korwin 5/26/2024
+
+This program will search an email message inputted by the user for various different phrases or words. These phrases or words are 
+commonly found in spam email messages. The total number of phrases or words present in the email will determine the likelihood
+that the message is spam. Then the total number of phrases or words found, the likelihood the message is spam, and the words
+and phrases that were found will be displayed to the user.
+
+Variables:
+spam_score
+spam_words 
+email_message
+words_found
+spam_likelihood
+
+Functions:
+a function that adds up the spam score and stores the words or phrases found
+a function that rates the likelihood of spam based on spam score
+a function that has all the spam words and phrases, gets an input from user, calls the other two functions,
+	to get spam score, words and phrases found, likelihood, and then print the results.
+	
+
+Logical Steps:
+1. Setup a function that searches through the user message ,adds up the spam score
+	 and creates a list that will be appended with the phrases and words found.
+2. Setup a function that rates the likelihood of spam
+3. Create a main function that contains the list of all spam words and phrases
+4. This main function will ask for an email message from a user then call on the other two functions
+5. Finally, this main function will display the spam score, likelihood of spam and the words and phrases
+	found
+
+Repository Link:
+https://github.com/JKorwin/COP2373
