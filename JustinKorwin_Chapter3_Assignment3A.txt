@@ -1,0 +1,32 @@
+Justin Korwin 5/31/2024
+
+This program will ask for a number of expenses from the user. The expenses will be analyzed for the lowest expense,
+the highest expense and the total expense. These will then be displayed back to the user
+
+variables:
+list_of_expenses
+expense
+expense_name
+expense_amount
+expenses_sum
+highest_expense
+lowest_expense
+
+
+functions:
+an expense_list function that asks the user for different expenses and saves the expenses as a tuple in a list
+a min_max function that finds the minimum and maximum expenses (will have to look at the second element of the tuple)
+a sum_expenses function that adds all the expenses together
+a main function that calls on the three previous functions and then prints the results of the min_max function and the sum_expenses function
+
+logical steps:
+1. Create the expense_list function that asks the user for a set of expenses
+2. Create a function that adds the number part of the list of tuples to find the sum of the expenses
+3. Create the min_max function that finds the biggest and smallest expense
+4. Create a main function that combines all of the previous functions and prints the sum, minimum expense, and maximum expense
+   in good format back to the user
+5. Call on the main function
+6. Remember to use tuples so that the minimum and maximum expenses can be displayed back to user labeled
+
+repository link:
+https://github.com/JKorwin/COP2373
