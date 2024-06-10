@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61696798-ab9b-45b2-b326-f8470037ff86" name="Changes" comment="Assignment 1A" />
+    <list default="true" id="61696798-ab9b-45b2-b326-f8470037ff86" name="Changes" comment="COP2373">
+      <change afterPath="$PROJECT_DIR$/JustinKorwin_Chapter4_Assignment4A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,21 +55,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.JustinKorwin_Chapter1_Assignment1A.executor": "Run",
-    "Python.JustinKorwin_Chapter1_Assignment1B.executor": "Run",
-    "Python.JustinKorwin_Chapter2_Assignment2A.executor": "Run",
-    "Python.JustinKorwin_Chapter3_Assignement3_A.executor": "Run",
-    "Python.JustinKorwin_Charpter1_Assignment1A.executor": "Run",
-    "Python.ProgrammingExercise1A.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Justin Korwin/PycharmProjects/COP2373",
-    "settings.editor.selected.configurable": "configurable.group.tools"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.JustinKorwin_Chapter1_Assignment1A.executor&quot;: &quot;Run&quot;,
+    &quot;Python.JustinKorwin_Chapter1_Assignment1B.executor&quot;: &quot;Run&quot;,
+    &quot;Python.JustinKorwin_Chapter2_Assignment2A.executor&quot;: &quot;Run&quot;,
+    &quot;Python.JustinKorwin_Chapter3_Assignement3_A.executor&quot;: &quot;Run&quot;,
+    &quot;Python.JustinKorwin_Chapter3_Assignment3A.executor&quot;: &quot;Run&quot;,
+    &quot;Python.JustinKorwin_Charpter1_Assignment1A.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ProgrammingExercise1A.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Justin Korwin/PycharmProjects/COP2373&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Justin Korwin\PycharmProjects\COP2373" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="JustinKorwin_Chapter1_Assignment1B" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="COP2373" />
@@ -248,7 +257,119 @@
       <option name="project" value="LOCAL" />
       <updated>1717214871679</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Assignment 1A">
+      <option name="closed" value="true" />
+      <created>1717214898210</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1717214898210</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Assignment 1A">
+      <option name="closed" value="true" />
+      <created>1717214976125</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1717214976125</updated>
+    </task>
+    <task id="LOCAL-00020" summary="python file">
+      <option name="closed" value="true" />
+      <created>1717215020748</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1717215020748</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1717215035461</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1717215035461</updated>
+    </task>
+    <task id="LOCAL-00022" summary="COP2373">
+      <option name="closed" value="true" />
+      <created>1717215084631</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1717215084631</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1717215273635</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1717215273635</updated>
+    </task>
+    <task id="LOCAL-00024" summary="COP2373">
+      <option name="closed" value="true" />
+      <created>1717215294726</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1717215294726</updated>
+    </task>
+    <task id="LOCAL-00025" summary="COP2373">
+      <option name="closed" value="true" />
+      <created>1717215362929</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1717215362929</updated>
+    </task>
+    <task id="LOCAL-00026" summary="COP2373">
+      <option name="closed" value="true" />
+      <created>1717215470919</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1717215470919</updated>
+    </task>
+    <task id="LOCAL-00027" summary="COP2373">
+      <option name="closed" value="true" />
+      <created>1717215479540</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1717215479540</updated>
+    </task>
+    <task id="LOCAL-00028" summary="READ ME">
+      <option name="closed" value="true" />
+      <created>1717215503242</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1717215503242</updated>
+    </task>
+    <task id="LOCAL-00029" summary="COP2373">
+      <option name="closed" value="true" />
+      <created>1717215547474</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1717215547474</updated>
+    </task>
+    <task id="LOCAL-00030" summary="COP2373">
+      <option name="closed" value="true" />
+      <created>1717215618350</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1717215618350</updated>
+    </task>
+    <task id="LOCAL-00031" summary="COP2373">
+      <option name="closed" value="true" />
+      <created>1717215723286</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1717215723286</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -265,6 +386,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Testing Commit" />
     <MESSAGE value="Assignment 1A" />
-    <option name="LAST_COMMIT_MESSAGE" value="Assignment 1A" />
+    <MESSAGE value="python file" />
+    <MESSAGE value="commit" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <MESSAGE value="READ ME" />
+    <MESSAGE value="COP2373" />
+    <option name="LAST_COMMIT_MESSAGE" value="COP2373" />
   </component>
 </project>
