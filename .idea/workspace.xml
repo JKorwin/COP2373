@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61696798-ab9b-45b2-b326-f8470037ff86" name="Changes" comment="COP2373">
-      <change afterPath="$PROJECT_DIR$/JustinKorwin_Chapter4_Assignment4A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JustinKorwin_Chapter6_Assignment6A.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +62,7 @@
     &quot;Python.JustinKorwin_Chapter2_Assignment2A.executor&quot;: &quot;Run&quot;,
     &quot;Python.JustinKorwin_Chapter3_Assignement3_A.executor&quot;: &quot;Run&quot;,
     &quot;Python.JustinKorwin_Chapter3_Assignment3A.executor&quot;: &quot;Run&quot;,
+    &quot;Python.JustinKorwin_Chapter4_Assignment4A.executor&quot;: &quot;Run&quot;,
     &quot;Python.JustinKorwin_Charpter1_Assignment1A.executor&quot;: &quot;Run&quot;,
     &quot;Python.ProgrammingExercise1A.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -369,7 +370,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717215723286</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="COP2373">
+      <option name="closed" value="true" />
+      <created>1717990488614</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1717990488614</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
