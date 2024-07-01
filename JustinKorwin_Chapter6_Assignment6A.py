@@ -31,12 +31,12 @@ def main():
     if social_security_validate(social_security_number) == True :
         print("The social security number is valid.")
     else:
-        print("The social securty number is invalid.")
+        print("The social security number is invalid.")
 
     if zipcode_validate(zipcode) == True :
         print("The zipcode is valid.")
     else:
-        print("The zipcode is invalid")
+        print("The zipcode is invalid.")
 
 # calling main function
 main()
