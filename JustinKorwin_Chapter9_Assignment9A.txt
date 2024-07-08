@@ -1,0 +1,30 @@
+Justin Korwin     July 7th, 2024
+
+This program will create a class named BankAcct that will store the name, account number, balance, and interest rate
+for a bank account. Methods for changing the interest rate, calculating the amount of interest, withdrawing, depositing, and seeing the balance will be created and then tested using a test function.
+
+Variables:
+name
+account_number
+amount
+interest_rate
+interest_amount
+account
+amount_withdraw
+amount_deposit
+balance
+days
+interest
+
+Functions:
+A test function that uses all the methods in the class to ensure all of them are working 
+
+Logical Steps:
+1. Create a class named BankAcct and initialize name, account number, amount and interest rate.
+2. Create methods for adjusting the interest rate, withdrawing, depositing, getting the balance and calculating interest
+3. Make a test function that asks user for name, account number, amount and interest rate
+4. Allow user to input an adjusted interest rate and then print the account balance and interest rate to ensure it is working
+5. Repeat step 4 for withdrawing, depositing, and calculating interest
+
+Repository:
+https://github.com/JKorwin/COP2373
