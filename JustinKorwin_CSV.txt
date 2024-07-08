@@ -1,0 +1,36 @@
+Justin Korwin    June 30, 2024
+
+This code will allow for student names and exam grades to be written as a csv file.
+This file will then be read and the information will be displayed in a tabular format
+
+Variables:
+header
+data
+first_name
+last_name
+exam1
+exam2
+exam3
+csv_writer
+
+Functions:
+student_data_collect
+data_read
+
+Logical Steps to Program:
+1. Import CSV so this all actually works
+2. Create the student data collect function and ask for the number of students whose data will be collected
+3. Create a list called header that includes all of the different types of data that will be collected
+4. Create a list named data that begins as just the header
+5. Use a loop and the number of students gotten before to ask for the set of data needed the amount of times needed
+6. After one set of data is gotten, it will then be appended to the data list that was created.
+7. After the data is appended to the list it is then written to the grades.csv file as a row using writerows
+8. All the data should now be collected
+9. Create the function that will first open the file and create the reader
+10. Take all the data read from the reader and convert it into a data list similar to before because lists are awesome
+11. Print the first line element by element with ample space in between because this is the header
+12. Use a loop to print the rest of the rows in the list element by element with the same amount of space in between as the header
+13. Don't forget to call the functions and pray it all works
+
+Repository:
+https://github.com/JKorwin/COP2373
