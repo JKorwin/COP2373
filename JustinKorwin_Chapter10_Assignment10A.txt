@@ -1,0 +1,25 @@
+Justin Korwin       July 14, 2024
+
+This program will use the inheritance approach found in 10.12 to create a class definition of Money that will
+support addition, subtraction, and multiplication. A test function will be created to test these methods.
+
+Variables:
+result1
+result2
+result3  (these are used to test if the methods are working right)
+money1
+money2   (instances of the money class)
+
+Functions:
+test function to ensure methods are working correctly
+
+Logical Steps:
+1. Copy and past the inheritance code found in 10.12 to start the definition of the Money class
+2. Add an addition method that returns the value of one instance of money added to another instance of money
+3. Add a subtraction method that returns the value of one instance of money subtracted by another instance of money
+4. Add a multiply method that returns the value of one instance of money multiplied by a number
+5. Create a test function that creates two instances of money and runs all the methods and saves them to a variable
+6. Print the variables created in step 5 to ensure they are all working properly
+
+Repository:
+https://github.com/JKorwin/COP2373
