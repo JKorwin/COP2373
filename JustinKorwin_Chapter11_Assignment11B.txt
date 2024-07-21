@@ -1,0 +1,19 @@
+Justin Korwin       July 21, 2024
+
+This program will calculate the length of the hypotenuse of a right triangle when given the nearest angle in degrees
+and the length of the adjacent side.
+
+Variables:
+angle
+radians
+length
+hypotenuse
+
+Functions:
+main
+
+Logical Steps:
+1. Ask user for the nearest angle in degrees and the length of the adjacent side
+2. Convert degrees to radians because math.cos has to use radians
+3. Use length / math.cos(radians) to find the length of the hypotenuse
+4. Display the length of the hypotenuse
