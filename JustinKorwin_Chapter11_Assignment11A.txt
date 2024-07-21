@@ -1,0 +1,32 @@
+Justin Korwin          July 21, 2024
+
+This program will create a deck of cards and then deal a hand of 5 cards. The user will then be asked to replace some of 
+the cards and then the new hand will be displayed.
+
+Variables:
+r (refers to rank)
+s (refers to suit)
+cards (list of cards)
+deck 
+replacement_cards
+cards_to_replace
+
+Functions:
+poker_hand
+display_cards
+replace
+main
+
+Logical Steps:
+1. Use the Deck class in the book to start off the code
+2. Create a function that deals 5 cards from the deck created with the code from the book
+3. Create a function that can display cards 
+4. Create a function that replaces specific cards in the hand
+5. Create a main function that creates a deck of cards
+6. Call on the poker_hand function to create a hand of cards and then display_cards to display them
+7. Ask the user for numbers correlating to the cards in the hand they would like to replace
+8. Call on the replace function using the numbers from the user to replace those cards in the hand
+9. Use the display_cards function once more to display the new hand
+
+Repository: 
+https://github.com/JKorwin/COP2373
