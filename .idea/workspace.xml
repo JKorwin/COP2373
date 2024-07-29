@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61696798-ab9b-45b2-b326-f8470037ff86" name="Changes" comment="COP2373">
-      <change afterPath="$PROJECT_DIR$/JustinKorwin_Chapter11_Assignment11B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JustinKorwin_Chapter12_Assignment12A.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grades.csv" beforeDir="false" afterPath="$PROJECT_DIR$/grades.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +63,7 @@
     "Python.JustinKorwin_Chapter10_Assignment10B.executor": "Run",
     "Python.JustinKorwin_Chapter11_Assignment11A.executor": "Run",
     "Python.JustinKorwin_Chapter11_Assignment11B.executor": "Run",
+    "Python.JustinKorwin_Chapter12_Assignment12A.executor": "Run",
     "Python.JustinKorwin_Chapter1_Assignment1A.executor": "Run",
     "Python.JustinKorwin_Chapter1_Assignment1B.executor": "Run",
     "Python.JustinKorwin_Chapter2_Assignment2A.executor": "Run",
@@ -76,7 +78,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/Justin Korwin/PycharmProjects/COP2373",
-    "settings.editor.selected.configurable": "configurable.group.tools"
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -433,7 +435,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721602364249</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="COP2373">
+      <option name="closed" value="true" />
+      <created>1721603183032</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1721603183032</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
