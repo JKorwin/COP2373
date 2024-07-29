@@ -1,0 +1,39 @@
+Justin Korwin              July 28. 2024
+
+This program will take a csv file with a bunch of names and grades for 3 exams and then put them into a numpy array.
+Different statistics of all the exams will then be calculated and displayed.
+
+Variables:
+student_number
+header
+data
+first_name
+last_name
+exam1
+exam2
+exam3
+flattened_grades
+grades
+pass_grade
+total_passed
+total_failed
+passed
+failed
+pass_percent
+
+Functions:
+student_data_collect (function not called because I already made the csv file but it is still in the code)
+numpy_data
+
+Logical Steps:
+1. Copy and paste some of the code from the csv assignment to set up the initial csv file
+2. Create a numpy_data function that puts all the data into a numpy array
+3. Use the various functions numpy offers to calculate and display the mean, median, standard deviation, min, and max of
+	the three exams in one easy step
+4. Do the same thing as step 3 but will all the exams combined using .flatten
+5. Create an iterator that goes through and finds all the passing exams with the determined pass_grade variable
+6. Add up all the passing and failing exams as a total and print how many passes and fails there are in total
+7. Use the total passes and fails to create a variable that is the percent of passes to total tests
+
+Repository:
+https://github.com/JKorwin/COP2373
